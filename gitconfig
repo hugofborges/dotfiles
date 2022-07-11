@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = hugofernandesborges@gmail.com
+	name = Hugo Borges
